@@ -1,3 +1,3 @@
 # Prueba de Integracion Continua
 
-ciclo: 2019-0
+ciclo:2019-0
